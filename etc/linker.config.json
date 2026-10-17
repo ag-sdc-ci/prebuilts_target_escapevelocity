@@ -1,0 +1,9 @@
+{
+	"provideLibs": [	
+		    "libdummy_ext_escapevelocity-x86_64-v2.so",
+		    "libdummy_ext_escapevelocity.so",
+		    "libdummy_shared_escapevelocity-x86_64-v2.so",
+		    "libdummy_shared_escapevelocity.so"
+	],
+	"visible": true
+}
